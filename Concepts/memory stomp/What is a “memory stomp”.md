@@ -30,3 +30,6 @@ This code may lead into infinite loop (or may not lead), because it is undefined
 Very likely variable i in memory is stored just after array. So accessing array[10] actually accesses i in other words it resets loop counter.
 
 I think it is good example that demonstrates memory "stomping".
+
+REF:
+- [What is a “memory stomp”?](http://stackoverflow.com/questions/13669329/what-is-a-memory-stomp)
