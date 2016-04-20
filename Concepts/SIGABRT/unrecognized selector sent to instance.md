@@ -1,0 +1,1 @@
+Try setting a symbolic breakpoint on `-[NSObject(NSObject) doesNotRecognizeSelector:]`. Just click [+] in the bottom left corner of the Breakpoint Navigator to add a breakpoint. Then click `Add Symbolic Breakpoint`. Reproducing your crash now should give you a better idea where in your code the issue occurs.
