@@ -10,6 +10,5 @@
 
 In almost all cases, the debug console will give you a little more information about what's causing `abort()` to be called, so always take a look there.
 
-
 REF:
 - [Program received signal SIGABRT](http://stackoverflow.com/questions/3887609/program-received-signal-sigabrt?answertab=votes#tab-top)
